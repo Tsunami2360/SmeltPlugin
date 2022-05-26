@@ -1,0 +1,40 @@
+# ==========[SETTINGS]==========
+# Instellingen voor SmeltPlugin
+# Default: alles true
+# ==========[DEFAULT]==========
+# coal: true
+# gold: true
+# quartz: true
+# iron: true
+# gold: true
+# redstone: true
+# lapis: true
+# emerald: true
+# diamond: true
+# ==========[COMMANDS]==========
+# /sphelp
+# De help command van SmeltPlugin.
+# /smelt
+# Smelt de ores in jouw inventory om naar ingots.
+# /spconfig
+# Verander de config in-game.
+# /ores
+# Bekijk alle valid ores voor het veranderen van de config.
+# /spreload
+# Reload SmeltPlugin.
+# ==========[PERMISSIONS]==========
+# smeltplugin.help
+# Gives access to /sphelp
+# smeltplugin.smelt
+# Gives access to /smelt
+# smeltplugin.*
+# Gives acces to all commands (/sphelp, /smelt, /spconfig, /ores, /spreload)
+# ==============================
+coal: true
+gold: true
+iron: true
+quartz: true
+redstone: true
+lapis: true
+emerald: true
+diamond: true
