@@ -1,0 +1,22 @@
+name: SmeltPlugin
+main: me.tsunami.smeltplugin.Main
+author: Tsunami#6271
+version: 1.0
+commands:
+  sphelp:
+    description: De help command van de SmeltPlugin.
+  smelt:
+    description: Smelt de ores in jouw inventory om naar ingots!
+  spconfig:
+    description: Verander de config in-game.
+  ores:
+    description: Bekijk alle valid ores voor het veranderen van de config.
+  spreload:
+    description: Reload de SmeltPlugin.
+permissions:
+  smeltplugin.help:
+    default: true
+  smeltplugin.smelt:
+    default: true
+  smeltplugin.*:
+    default: op
